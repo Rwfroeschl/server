@@ -52,4 +52,4 @@ MESSAGE <exisiting user> <message>
 
 ## Bug
 
-When you message someone it will not respond until the corresponding user enters a command.
+When you message a user it will not show until the corresponding user enters a command.
