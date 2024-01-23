@@ -8,7 +8,7 @@ This project includes two Python scripts that demonstrate the fundamental client
 
 ### Dependencies
 
-* Python 3.x
+* Python 3.11.4
 * No external libraries are required.
 
 ### Installing
@@ -19,23 +19,36 @@ No installation is needed. Just clone the repository and run the scripts.
 git clone https://github.com/Rwfroeschl/server.git
 cd server
 ```
+
 ## Getting Started
 
-Run the server script
-`python server.py`
-In a separate terminal write and run the client script
-`python client_application.py`
-
+Run the server script  
+```python 
+python server.py
+```
+In a separate terminal write and run the client script  
+```python 
+python client_application.py
+```
 ## Commands
 
-Register User
-`REGISTER <username> <password>`
-Login
-`LOGIN <existing username> <existing password>`
-Who - displays who is registered
-`WHO`
-Message
-`MESSAGE <exisiting user> <message>`
+Register User  
+```bash
+REGISTER <username> <password>
+```
+Login  
+```bash
+LOGIN <existing username> <existing password>
+```
+
+Who - displays who is registered  
+```bash
+WHO
+```
+Message  
+```bash
+MESSAGE <exisiting user> <message>
+```
 
 ## Bug
 
