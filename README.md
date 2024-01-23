@@ -1,2 +1,2 @@
-# server
-server that uses TCP as well as UDP to communicate messages
+# 563Project
+Instant Messaging Platform
