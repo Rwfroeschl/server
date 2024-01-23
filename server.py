@@ -1,5 +1,5 @@
 """
-This code was written by Robert Froeschl and Michael Mudd. 
+This code was written by Robert Froeschl. 
 
 The project is a simple chat server that allows users to register, log in, and send messages to each other. 
 
